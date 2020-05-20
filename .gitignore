@@ -1,0 +1,12 @@
+dist
+.project_env.rc
+.rvmrc
+.ruby-version
+*.rbc
+download/*
+keynote/*
+rakelib/*
+src/*
+DEPLOYING
+Rakefile
+README.rdoc
